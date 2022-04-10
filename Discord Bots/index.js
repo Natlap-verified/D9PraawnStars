@@ -1,1 +1,1 @@
-var test = "Dc channel Test 1";
+var test = "Dc channel Test 2";
