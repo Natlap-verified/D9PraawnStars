@@ -1,0 +1,18 @@
+{
+  "name": "leaderboard-samples",
+  "version": "1.0.0",
+  "description": "Samples of leaderboard logic for D9PS entities: - Amateurs - Managers - Gotchis",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node ."
+  },
+  "author": "chubs",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "graphql-request": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.23"
+  }
+}
